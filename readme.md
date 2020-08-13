@@ -133,17 +133,17 @@ You can customize the appearance of your `Stats Card` or `Repo Card` however you
 
 ##### Gradient in bg_color
 
-You can provide multiple comma saperated values in bg_color option to render a gradient, the format of the gradient is :-
+You can provide multiple comma separated values in bg_color option to render a gradient, the format of the gradient is :-
 
 ```
 &bg_color=DEG,COLOR1,COLRO2,COLOR3...COLOR10
 ```
 
-> Note on cache: Repo cards have default cache of 30mins (1800 seconds) if the fork count & star count is less than 1k otherwise it's 2hours (7200). Also note that cache is clamped to minimum of 30min and maximum of 24hours
+> Note on cache: Repo cards have default cache of 4hours (14400 seconds) if the fork count & star count is less than 1k otherwise it's 2hours (7200). Also note that cache is clamped to minimum of 2hours and maximum of 24hours
 
 #### Stats Card Exclusive Options:
 
-- `hide` - Hide's the specified items from stats _(Comma seperated values)_
+- `hide` - Hides the specified items from stats _(Comma seperated values)_
 - `hide_title` - _(boolean)_
 - `hide_rank` - _(boolean)_
 - `show_icons` - _(boolean)_
@@ -194,7 +194,7 @@ Use [show_owner](#customization) variable to include the repo's owner username
 
 # Top Languages Card
 
-Top languages card shows github user's top langauges which has been mostly used.
+Top languages card shows github user's top languages which has been mostly used.
 
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats_
 
