@@ -89,7 +89,7 @@ _Note: If you are deploying this project yourself, the private contributions wil
 > Options: `&count_private=true`
 
 ```md
-![Anurag's github stats](https://github-readme-stats.keshavashiya.vercel.app/api?username=anuraghazra&count_private=true)
+![Keshav's github stats](https://github-readme-stats.keshavashiya.vercel.app/api?username=keshavashiya&count_private=true)
 ```
 
 ### Showing icons
@@ -97,7 +97,7 @@ _Note: If you are deploying this project yourself, the private contributions wil
 To enable icons, you can pass `show_icons=true` in the query param, like so:
 
 ```md
-![Anurag's github stats](https://github-readme-stats.keshavashiya.vercel.app/api?username=anuraghazra&show_icons=true)
+![Keshav's github stats](https://github-readme-stats.keshavashiya.vercel.app/api?username=keshavashiya&show_icons=true)
 ```
 
 ### Themes
@@ -107,7 +107,7 @@ With inbuilt themes you can customize the look of the card without doing any [ma
 Use `?theme=THEME_NAME` parameter like so :-
 
 ```md
-![Anurag's github stats](https://github-readme-stats.keshavashiya.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Keshav's github stats](https://github-readme-stats.keshavashiya.vercel.app/api?username=keshavashiya&show_icons=true&theme=radical)
 ```
 
 #### All inbuilt themes :-
