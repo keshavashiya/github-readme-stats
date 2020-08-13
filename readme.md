@@ -47,7 +47,7 @@
     <a href="/docs/readme_kr.md">한국어</a>
   </p>
 </p>
-<p align="center">Loved the project? Please consider <a href="https://www.paypal.me/anuraghazra">donating</a> to help it improve!
+<p align="center">Loved the project? Please consider <a href="https://www.paypal.me/keshavashiya">donating</a> to help it improve!
 
 # Features
 
@@ -65,7 +65,7 @@ Copy paste this into your markdown content, and that's it. Simple!
 Change the `?username=` value to your GitHub's username.
 
 ```md
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Keshav's github stats](https://github-readme-stats.keshavashiya.vercel.app/api?username=keshavashiya)](https://github.com/keshavashiya/github-readme-stats)
 ```
 
 _Note: Ranks are calculated based on user's stats, see [src/calculateRank.js](./src/calculateRank.js)_
@@ -77,7 +77,7 @@ To hide any specific stats, you can pass a query parameter `?hide=` with comma s
 > Options: `&hide=stars,commits,prs,issues,contribs`
 
 ```md
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Keshav's github stats](https://github-readme-stats.keshavashiya.vercel.app/api?username=keshavashiya&hide=contribs,prs)
 ```
 
 ### Adding private contributions count to total commits count
@@ -89,7 +89,7 @@ _Note: If you are deploying this project yourself, the private contributions wil
 > Options: `&count_private=true`
 
 ```md
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![Anurag's github stats](https://github-readme-stats.keshavashiya.vercel.app/api?username=anuraghazra&count_private=true)
 ```
 
 ### Showing icons
@@ -97,7 +97,7 @@ _Note: If you are deploying this project yourself, the private contributions wil
 To enable icons, you can pass `show_icons=true` in the query param, like so:
 
 ```md
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.keshavashiya.vercel.app/api?username=anuraghazra&show_icons=true)
 ```
 
 ### Themes
@@ -107,7 +107,7 @@ With inbuilt themes you can customize the look of the card without doing any [ma
 Use `?theme=THEME_NAME` parameter like so :-
 
 ```md
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.keshavashiya.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 ```
 
 #### All inbuilt themes :-
@@ -178,19 +178,19 @@ Yey! You are no longer limited to 6 pinned repositories.
 
 Copy-paste this code into your readme and change the links.
 
-Endpoint: `api/pin?username=anuraghazra&repo=github-readme-stats`
+Endpoint: `api/pin?username=keshavashiya&repo=github-readme-stats`
 
 ```md
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.keshavashiya.vercel.app/api/pin/?username=keshavashiya&repo=github-readme-stats)](https://github.com/keshavashiya/github-readme-stats)
 ```
 
 ### Demo
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.keshavashiya.vercel.app/api/pin/?username=keshavashiya&repo=github-readme-stats)](https://github.com/keshavashiya/github-readme-stats)
 
 Use [show_owner](#customization) variable to include the repo's owner username
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.keshavashiya.vercel.app/api/pin/?username=keshavashiya&repo=github-readme-stats&show_owner=true)](https://github.com/keshavashiya/github-readme-stats)
 
 # Top Languages Card
 
@@ -202,10 +202,10 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 Copy-paste this code into your readme and change the links.
 
-Endpoint: `api/top-langs?username=anuraghazra`
+Endpoint: `api/top-langs?username=keshavashiya`
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.keshavashiya.vercel.app/api/top-langs/?username=keshavashiya)](https://github.com/keshavashiya/github-readme-stats)
 ```
 
 ### Hide individual languages
@@ -213,7 +213,7 @@ Endpoint: `api/top-langs?username=anuraghazra`
 You can use `?hide=language1,language2` parameter to hide individual languages.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.keshavashiya.vercel.app/api/top-langs/?username=keshavashiya&hide=javascript,html)](https://github.com/keshavashiya/github-readme-stats)
 ```
 
 ### Compact Language Card Layout
@@ -221,16 +221,16 @@ You can use `?hide=language1,language2` parameter to hide individual languages.
 You can use the `&layout=compact` option to change the card design.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.keshavashiya.vercel.app/api/top-langs/?username=keshavashiya&layout=compact)](https://github.com/keshavashiya/github-readme-stats)
 ```
 
 ### Demo
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.keshavashiya.vercel.app/api/top-langs/?username=keshavashiya)](https://github.com/keshavashiya/github-readme-stats)
 
 - Compact layout
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.keshavashiya.vercel.app/api/top-langs/?username=keshavashiya&layout=compact)](https://github.com/keshavashiya/github-readme-stats)
 
 ---
 
@@ -238,41 +238,41 @@ You can use the `&layout=compact` option to change the card design.
 
 - Default
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+![Keshav's github stats](https://github-readme-stats.keshavashiya.vercel.app/api?username=keshavashiya)
 
 - Hiding specific stats
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,issues)
+![Keshav's github stats](https://github-readme-stats.keshavashiya.vercel.app/api?username=keshavashiya&hide=contribs,issues)
 
 - Showing icons
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=issues&show_icons=true)
+![Keshav's github stats](https://github-readme-stats.keshavashiya.vercel.app/api?username=keshavashiya&hide=issues&show_icons=true)
 
 - Include All Commits
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&include_all_commits=true)
+![Keshav's github stats](https://github-readme-stats.keshavashiya.vercel.app/api?username=keshavashiya&include_all_commits=true)
 
 - Themes
 
 Choose from any of the [default themes](#themes)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Keshav's github stats](https://github-readme-stats.keshavashiya.vercel.app/api?username=keshavashiya&show_icons=true&theme=radical)
 
 - Gradient
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Keshav's github stats](https://github-readme-stats.keshavashiya.vercel.app/api?username=keshavashiya&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 - Customizing stats card
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api/?username=anuraghazra&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Keshav's github stats](https://github-readme-stats.keshavashiya.vercel.app/api/?username=keshavashiya&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 - Customizing repo card
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.keshavashiya.vercel.app/api/pin?username=keshavashiya&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 - Top languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.keshavashiya.vercel.app/api/top-langs/?username=keshavashiya)](https://github.com/keshavashiya/github-readme-stats)
 
 ---
 
@@ -281,21 +281,21 @@ Choose from any of the [default themes](#themes)
 You usually won't be able to layout the images side by side. To do that you can use this approach:
 
 ```md
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/keshavashiya/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.keshavashiya.vercel.app/api/pin/?username=keshavashiya&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/keshavashiya/covid19india-react">
+  <img align="left" src="https://github-readme-stats.keshavashiya.vercel.app/api/pin/?username=keshavashiya&repo=covid19india-react" />
 </a>
 ```
 
 ## Deploy on your own Vercel instance
 
-Since the GitHub API only allows 5k requests per hour, it is possible that my `https://github-readme-stats.vercel.app/api` could hit the rate limiter. If you host it on your own Vercel server, then you don't have to worry about anything. Click on the deploy button to get started!
+Since the GitHub API only allows 5k requests per hour, it is possible that my `https://github-readme-stats.keshavashiya.vercel.app/api` could hit the rate limiter. If you host it on your own Vercel server, then you don't have to worry about anything. Click on the deploy button to get started!
 
-NOTE: Since [#58](https://github.com/anuraghazra/github-readme-stats/pull/58) we should be able to handle more than 5k requests and have no issues with downtime :D
+NOTE: Since [#58](https://github.com/keshavashiya/github-readme-stats/pull/58) we should be able to handle more than 5k requests and have no issues with downtime :D
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/anuraghazra/github-readme-stats)
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/keshavashiya/github-readme-stats)
 
 <details>
  <summary><b> Guide on setting up Vercel  🔨 </b></summary>
@@ -327,7 +327,7 @@ However, if you are using this project and happy with it or just want to encoura
 
 - Giving proper credit when you use github-readme-stats on your readme, linking back to it :D
 - Starring and sharing the project :rocket:
-- [![paypal.me/anuraghazra](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/anuraghazra) - You can make one-time donations via PayPal. I'll probably buy a ~~coffee~~ tea. :tea:
+- [![paypal.me/keshavashiya](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/keshavashiya) - You can make one-time donations via PayPal. I'll probably buy a ~~coffee~~ tea. :tea:
 
 Thanks! :heart:
 
