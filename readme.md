@@ -34,6 +34,8 @@
     <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Request Feature</a>
   </p>
   <p align="center">
+    <a href="/docs/readme_fr.md">Français </a>
+    ·
     <a href="/docs/readme_cn.md">简体中文</a>
     ·
     <a href="/docs/readme_es.md">Español</a>
@@ -332,6 +334,8 @@ However, if you are using this project and happy with it or just want to encoura
 Thanks! :heart:
 
 ---
+
+![https://vercel.com](https://res.cloudinary.com/anuraghazra/image/upload/v1597827714/powered-by-vercel_1_ug4uro.svg)
 
 Contributions are welcomed! <3
 
