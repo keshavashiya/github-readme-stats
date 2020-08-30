@@ -44,6 +44,8 @@
     ·
     <a href="/docs/readme_pt-BR.md">Português Brasileiro</a>
     ·
+    <a href="/docs/readme_it.md">Italiano</a>
+    ·
     <a href="/docs/readme_kr.md">한국어</a>
   </p>
 </p>
@@ -54,7 +56,7 @@
 - [Carte des stats GitHub](#carte-des-stats-github)
 - [GitHub Extra Pins](#github-extra-pins)
 - [Carte des meilleurs langages](#carte-des-langages-les--utilisés)
-- [Themes](#themes)
+- [Themes](#thèmes)
 - [Personnalisation](#personnalisation)
 - [Deployer toi-même](#déployer-sur-votre-propre-instance-vercel)
 
